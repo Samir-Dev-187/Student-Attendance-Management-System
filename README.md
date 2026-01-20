@@ -49,6 +49,3 @@ The project began as a console-based application and is designed to evolve into 
   - Planned: GUI (Tkinter / GTK / Electron – personal exploration)
 
 ---
-
-## 📂 Project Structure
-
